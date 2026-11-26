@@ -1,1 +1,1 @@
-{"name": "Daily Planer Mini", "short_name": "Planer", "start_url": "./index.html", "display": "standalone", "background_color": "#f6efe6", "theme_color": "#5b4636", "icons": [{"src": "icon.png?v=5", "sizes": "512x512", "type": "image/png"}]}
+{"name": "Daily Planer Mini", "short_name": "Planer", "start_url": "./index.html", "display": "standalone", "background_color": "#f6efe6", "theme_color": "#5b4636", "icons": [{"src": "icon.png?v=7", "sizes": "512x512", "type": "image/png"}]}
